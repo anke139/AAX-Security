@@ -1,12 +1,14 @@
 # AAX-Security
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
-
-*Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
-
 ![Thumbnail of Cayman](thumbnail.png)
 
-## Usage
+## INTRODUCCIÓN
+
+Hemos elegido el nombre de empresa en funcion de los participantes del grupo, quedando de la siguiente manera "AAX" como nuestra empresa esta orientada a la seguridad le hemos añadido "Security" para recalcar la orientacion de la misma.
+
+Hemos tenido una ligera lluvia de ideas, no obstante termino muy temprano ya que salio la idea de hacer una empresa de videovigilancia, ya que aprovecha muchos factores de los dispositivos IoT, como podrian ser camaras, sensores o alarmas.
+
+
 
 To use the Cayman theme:
 
